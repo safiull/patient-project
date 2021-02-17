@@ -1,0 +1,40 @@
+#patient-card {
+	width: 220px;
+	height: 320px;
+	margin: 0 auto;
+}
+
+#patient-card-print {
+	width: 220px;
+	height: 320px;
+	margin-left: 30px;
+}
+
+.header p{
+	font-size: 12px;
+}
+
+.header img{
+	width: 70px;
+	margin: 0 auto;
+}
+
+.show-left {
+	left: inherit !important;
+	right: 0 !important;
+}
+
+.dataTables_length{
+	float: left;
+}
+.dt-buttons{
+	float: right;
+}
+
+#prescriptionModal {
+
+}
+
+.modal-content {
+    box-shadow: none;
+}
